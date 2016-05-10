@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chops",
+    "enableMultiJS": false,
+    "longName": "myanims",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/animation.png",
+                "name": "ANIMATION",
+                "targetPlatforms": [
+                    "basalt",
+                    "chalk"
+                ],
+                "type": "raw"
+            },
+            {
+                "file": "images/start.png",
+                "name": "ANIMATIONSTART",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/icon_bluetooth.png",
+                "name": "IMAGE_BLUETOOTH",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "myanims",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "947f9a9e-bef6-4eca-814d-671a02d82547",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
